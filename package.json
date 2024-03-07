@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
+  "homepage": "https://evanss2025.github.io/Research-Portfolio/home",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
